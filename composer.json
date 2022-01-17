@@ -1,0 +1,13 @@
+{
+  "name": "designspin/tenacity-interiors",
+  "description": "Tenacity Interiors WP Theme",
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://wpackagist.org"
+    }
+  ],
+  "require": {
+    "htmlburger/carbon-fields": "^3.1"
+  }
+}
